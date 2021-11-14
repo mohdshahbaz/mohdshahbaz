@@ -1,4 +1,4 @@
-### Hi there 👋
+### Web Developer (Angular, React, Node.js, Express.js, MongoDb, Django/APIs).
 
 <!--
 **mohdshahbaz/mohdshahbaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
